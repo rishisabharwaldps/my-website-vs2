@@ -1,0 +1,35 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+.body_background
+{
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+.header{
+    text-decoration-color: red;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+  width: 40%;
+  margin: 10px;
+}
+
+.login_div2
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+  width: 40%;
+  margin: 10px;
+}
+
+.login_div3
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+  width: 40%;
+  margin: 10px;
+}
